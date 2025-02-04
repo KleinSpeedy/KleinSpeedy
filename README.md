@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Jonas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center"> Im currently studying computer science at HTWK-Leipzig! </h2>
+<h3 align="center"> Microcontrollers and other stuff, mostly C </h2>
 
 <h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills </b> </h3>
 <br>
